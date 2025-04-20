@@ -1,56 +1,91 @@
-# 👋 Hi there, I'm Anand!
+# 👋 Hey there, I'm Anand!
 
-🚀 **Versatile AI enthusiast & full-stack developer** passionate about solving real-world problems with technology. I’m currently pursuing my B.Tech in CSE (AI) at **Amrita Vishwa Vidyapeetham** and love experimenting with machine learning, UI/UX, and innovative apps that make a difference.
-
----
-
-## 🔍 About Me
-- 🎓 **AI Undergraduate** | CGPA: 8.44  
-- 💼 **Ex-Intern @ TCS** | **Ex-Intern @ Inclusys Neuro Org** | Worked on Full-Stack App Dev, LLMs, BLE, OCR and Speech-to-Text  
-- 🧠 Always eager to explore cutting-edge technologies and make impactful contributions  
-- 🎤 Known for solid presentation & public speaking skills  
-- 🧩 I blend tech with creativity — from robotics to resume analyzers!
+🎓 AI Enthusiast | 💻 Full-Stack Developer | 🔬 Researcher | 🎤 Public Speaker
 
 ---
 
-## 💡 Projects That Speak for Me
-- 🤖 **Maze Runner Robot** – Collision-avoiding robot using ROS & Arduino  
-- 🧠 **Parkinson’s Disease Detection** – ML-based voice analysis to detect severity  
-- 🧾 **Resume Analyzer** – Flask website for smart resume analysis & job prediction  
-- 🔡 **Braille Education Apps** – Flutter/Dart apps empowering blind students  
-- 🔥 **Wildfire Detection System** – Image-based wildfire prediction using ML  
+## 🚀 About Me
 
-> Check out my [Repositories](https://github.com/Levi-224?tab=repositories) for more cool stuff!
+I'm an ambitious and curious **Computer Science (AI) undergrad** from **Amrita Vishwa Vidyapeetham** passionate about solving real-world problems using tech. From mobile/web app development to health tech innovations, I'm constantly pushing boundaries and exploring new possibilities.
 
 ---
 
-## 🛠 Tech Stack
+## 📚 Education
+
+- 🎓 **B.Tech in CSE (Artificial Intelligence)**  
+  Amrita Vishwa Vidyapeetham, Amritapuri  
+  CGPA: 8.44
+
+---
+
+## 💼 Internship Experience
+
+### 👨‍💻 Tata Consultancy Services (TCS) – *Intern*  
+📍 Thiruvananthapuram | 🗓️ Aug 2023 – Dec 2023  
+**Highlights:**
+- Full-stack mobile/web app development for real-world use cases  
+- Explored **LLMs** and **API integration**  
+- Implemented **speech-to-text conversion**
+
+### 🧠 Inclusys Neuro Org – *Intern*  
+🗓️ Feb 2024 – Jan 2025  
+**Highlights:**
+- Developed apps integrating **Bluetooth Low Energy (BLE)** tech  
+- Implemented features using **Optical Character Recognition (OCR)**  
+- Gained deep insight into assistive and neuro tech applications
+
+---
+
+## 🧪 Research Publication
+
+### 📝 Published at ICTIS 2025 (Springer) – Bangkok, Thailand 🇹🇭  
+**Title:** *AI-Powered Voice Analysis for Early Diagnosis and Severity Assessment of Parkinson’s Disease*  
+**Co-authors:** Divya R, Dhruv Dinesh, Nandana Ajoy, Rohit Shibu Thomas  
+- Focused on voice-based ML detection of Parkinson’s  
+- Accepted for **Springer publication**
+
+---
+
+## 🛠️ Skills & Tools
+
 - **Languages:** Python, Java, Dart, HTML  
-- **Frameworks:** Flutter, Flask  
+- **Frameworks:** Flask, Flutter, ROS  
+- **Tools:** Arduino, FlutterFlow, Git  
 - **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Tools:** FlutterFlow, Arduino, Git  
-- **Design:** UI/UX, Figma, Brainstorming  
+- **Design:** UI/UX, Figma  
+- **Soft Skills:** Public Speaking, Teamwork, Brainstorming
 
 ---
 
-## 🏅 Achievements & Certificates
-- 🥇 **Tie-U App-a-thon** – International finalist (Top 5)  
-- 🧾 Certified in **Aerial Robotics** (University of Pennsylvania)  
-- ☁️ **Cloud Computing** (AWS & Azure via DataCamp)
-- 💻 **Internship Completion @ Inclusys Neuro Org**
-- 💻 **Internship Completion @ TCS**  
-- 🌱 Volunteering at **AYUDH**, **VIDYUT ‘23**, and SSR mental health awareness
+## 🔥 Projects
+
+- 🤖 **Maze Runner Robot** – Autonomous bot with obstacle detection using ROS & Arduino  
+- 🧠 **Parkinson’s Detection & Severity Analysis** – ML-powered voice model (Ongoing)  
+- 📄 **Resume Analyzer Website** – Flask app for job suggestion and CV improvement  
+- 🔠 **Braille Learning App for Blind Students** – Full-stack app (Dart/Flutter)  
+- 🔥 **Wildfire Detection using ML** – Advanced image classification (Ongoing)
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements
+
+- 🥇 Top 5 in **Tie-U International App-a-thon** (Alaska)  
+- 📜 Multiple internship & course certificates (TCS, Coursera, DataCamp)  
+- 🧑‍🤝‍🧑 **SEWA & Vidyut ‘23 Volunteer**  
+- 🧠 **Mental Health Awareness Project** – SSR Community Initiative  
+
+---
+
+## 📫 Let’s Connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anand-s-194435222/)  
-📍 Trivandrum, India  
-📧 sreeanand40@gmail.com  
-📞 +91 9400579432  
+📧 **Email:** sreeanand40@gmail.com  
+📍 **Location:** Trivandrum, India  
+📞 **Phone:** +91 9400579432  
+🔗 **GitHub:** [Levi-224](https://github.com/Levi-224)
 
 ---
 
-> “Code with purpose. Design with empathy. Innovate with curiosity.”
+> “Build with intention. Learn with passion. Lead with empathy.”  
 
-_Thanks for visiting my GitHub! ⭐ Let’s build something amazing together!_
+🌟 Thanks for stopping by! Let’s build something impactful together.
